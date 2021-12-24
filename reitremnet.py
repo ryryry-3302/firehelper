@@ -1,5 +1,5 @@
 print("Hi I'm here to help plan when you can fire!")
-print("sheesh")
+print("sheeeeeesh")
 retirement_ex = float(input("How much money do you wanna spend during your retirement per year?\n>"))
 current_income = float(input("How much do you earn per year?\n>"))
 income_increment = float(input("Expected % increase in income per annually.\n>").strip("%")) / 100
